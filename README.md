@@ -5,7 +5,7 @@ G2 5.0 is on the way 🚀
 
 - 🔭 I’m currently working on a BI department in Ant Group
 - 🌱 I’m focus on data visualization and data analysis
-- 📫 How to reach me: [visiky@qq.com](mailto:visiky@qq.com)
+- 📫 How to reach me: [398068229@qq.com](mailto:398068229@qq.com)
 - 📚 zhihu(知乎)：https://www.zhihu.com/people/visiky
 - 🐦 yuque(语雀)：https://www.yuque.com/kasmine
 
