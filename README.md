@@ -1,6 +1,6 @@
 G2 5.0 is on the way 🚀
-Details: https://www.yuque.com/antv/g2-docs/about-g2-5.x
-Code: https://github.com/antvis/G2/tree/v5
+- Details: https://www.yuque.com/antv/g2-docs/about-g2-5.x
+- Code: https://github.com/antvis/G2/tree/v5
 Hi guys 👋
 🔭 I’m currently working on a BI department in Ant Group
 🌱 I’m focus on data visualization and data analysis
