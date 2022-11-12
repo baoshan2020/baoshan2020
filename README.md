@@ -1,16 +1,16 @@
 ### DevOps📚
 
-- OA: [http://oa.tusenergy.com](http://oa.tusenergy.com/)
-- k3cloud:http://cloud.tusenergy.com/k3cloud
-- gc:[http://gc.thsolar.com](http://gc.thsolar.com/)
+- OA:          [http://oa.tusenergy.com](http://oa.tusenergy.com/)
+- k3cloud: http://cloud.tusenergy.com/k3cloud
+- gc:          [http://gc.thsolar.com](http://gc.thsolar.com/)
 
 ### github 🚀
 
-- docs: http://it.tusenergy.com
+- docs:          http://it.tusenergy.com
 - wordpress:  before
-- database:http://de.tusenergy.com
+- database:  http://de.tusenergy.com
 - jumpserver:http://r.tusenergy.com/
-- nextcloud:http://pan.tusenergy.com
+- nextcloud:   http://pan.tusenergy.com
 - zabbix: LNA IP
 
 ### code🌱
@@ -33,7 +33,6 @@
 - 🌱 I’m currently learning python、js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
 
 mama
 <!---
