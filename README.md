@@ -1,27 +1,36 @@
-G2 5.0 is on the way 🚀
-- Details: https://www.yuque.com/antv/g2-docs/about-g2-5.x
-- Code: https://github.com/antvis/G2/tree/v5
+### DevOps📚
+
+- OA: [http://oa.tusenergy.com](http://oa.tusenergy.com/)
+- k3cloud:http://cloud.tusenergy.com/k3cloud
+- gc:[http://gc.thsolar.com](http://gc.thsolar.com/)
+
+### github 🚀
+
+- docs: http://it.tusenergy.com
+- wordpress:  before
+- database:http://de.tusenergy.com
+- jumpserver:http://r.tusenergy.com/
+- nextcloud:http://pan.tusenergy.com
+- zabbix: LNA IP
+
+### code🌱
+
+- www:  [baoshan2020.github.io](https://baoshan2020.github.io/)
+
+- blog：
+- code：
+
 ### Hi guys 👋
 
-- 🔭 I’m currently working on a BI department in Ant Group
-- 🌱 I’m focus on data visualization and data analysis
+- 🔭 I’m  network engineer &&  web development
+- 🌱 I’m focus on ccnp、liunx 、vmware、js、jq 、winserver、sqlserver
 - 📫 How to reach me: [398068229@qq.com](mailto:398068229@qq.com)
-- 📚 zhihu(知乎)：https://www.zhihu.com/people/visiky
-- 🐦 yuque(语雀)：https://www.yuque.com/kasmine
+- 🐦 kingdee(社区)：[https://vip.kingdee.com/people/mabaoshan](https://vip.kingdee.com/people/mabaoshan-79827?productLineId=1)
 
 ### Others
 
-- 🤔 A [Job Model](https://www.yuque.com/afx/about/evgq1d) for data visualization Engineer
-- 😉 [visiky's resume](https://visiky.github.io/resume/?user=visiky), an online resume.
-Others
-🤔 A Job Model for data visualization Engineer
-😉 visiky's resume, an online resume.
-Anurag's github stats
-
-
-- 👋 Hi, I’m @baoshan2020
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning python、js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
