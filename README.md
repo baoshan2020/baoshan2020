@@ -23,7 +23,7 @@
 ### Hi guys 👋
 
 - 🔭 I’m  network engineer &&  web development
-- 🌱 I’m focus on ccnp、liunx 、vmware、js、jq 、winserver、sqlserver
+- 🌱 I’m focus on ccnp、liunx 、vmware、js、jq 、winserver、sqlserver、python
 - 📫 How to reach me: [398068229@qq.com](mailto:398068229@qq.com)
 - 🐦 kingdee(社区)：[https://vip.kingdee.com/people/mabaoshan](https://vip.kingdee.com/people/mabaoshan-79827?productLineId=1)
 
