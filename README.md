@@ -15,9 +15,7 @@
 
 ### code🌱
 
-- www:  [baoshan2020.github.io](https://baoshan2020.github.io/)
-
-- blog：
+- blog:  [baoshan2020.github.io](https://baoshan2020.github.io/)
 - code：
 
 ### Hi guys 👋
